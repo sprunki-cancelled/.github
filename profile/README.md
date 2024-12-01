@@ -35,7 +35,3 @@ The game blends exploration, puzzle-solving, and platforming in a deliberately "
 - **Replay Value**: Hidden features and Easter eggs encourage multiple playthroughs to uncover every secret.
 
 The **Sprunki Cancelled Update** takes a bold and creative approach, transforming imperfections into entertainment and delivering a truly memorable gaming experience.
-
-https://github.com/dustruco
-
-https://github.com/ikcomplo
